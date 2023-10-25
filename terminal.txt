@@ -1,0 +1,1 @@
+cd -> nos permite navegar las carpetas de mi pc
